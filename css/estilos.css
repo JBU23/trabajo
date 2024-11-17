@@ -1,0 +1,42 @@
+.letra-azul{
+    color: crimson;
+}
+
+body{
+    background-color: rgb(10, 105, 38);
+}
+
+#subtitulo{
+    text-decoration: underline;
+}
+
+.total_listado{
+    color: #935116; 
+    background-color: #2ecc71;
+}
+
+.opcion-menu{
+    color: #c46f26;
+    background-color: #2ecc71;
+    border-radius: 20px;
+    text-align: center;
+    width: 25%;
+    cursor: pointer;
+}
+
+.opcion-menu:hover{
+    background-color: rgb(4, 88, 99);
+}
+
+.opcion-configuracion{
+    color: #c46f26;
+    background-color: #2ecc71;
+    border-radius: 20px;
+    text-align: center;
+    width: 50%;
+    cursor: pointer;
+}
+
+.opcion-configuracion:hover{
+    background-color: rgb(4, 88, 99);
+}
